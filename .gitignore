@@ -1,0 +1,16 @@
+target
+*bin
+*logs
+*.settings
+*.swp
+*.project
+*.classpath
+*config.properties
+*rebel.xml
+*rebel.xml*
+*DS_Store
+*nulllog
+.idea/*
+*.iml
+*#*
+node_modules
